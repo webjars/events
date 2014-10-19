@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>events</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3-SNAPSHOT</version>
     <name>events</name>
     <description>WebJar for events</description>
     <url>http://webjars.org</url>
@@ -50,7 +50,7 @@
         <url>http://github.com/webjars/events</url>
         <connection>scm:git:https://github.com/webjars/events.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/events.git</developerConnection>
-        <tag>events-1.0.2</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <build>
